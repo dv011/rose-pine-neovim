@@ -15,6 +15,7 @@ local variants = {
 		foam = "#9ccfd8",
 		iris = "#c4a7e7",
 		leaf = "#95b1ac",
+		paren = "#0C1F27",
 		highlight_low = "#21202e",
 		highlight_med = "#403d52",
 		highlight_high = "#524f67",
